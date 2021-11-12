@@ -1,4 +1,4 @@
--- Set Position of Chat-Frame. Hook very important otherwise resets on reload/relog
+-- Set Position of Chat-Frame and load the other Frame-functions. Hook very important otherwise resets on reload/relog
 hooksecurefunc("FCF_RestorePositionAndDimensions", function(...)
 	ChatFrame1:ClearAllPoints()
 	ChatFrame1:SetPoint("BOTTOMLEFT", UIParent, 30, 30)
