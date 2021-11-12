@@ -1,5 +1,0 @@
-## Interface: 11305
-## Title: _Lvl1QuickSetupFramesStuff
-Frames.lua
-
-
